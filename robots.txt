@@ -1,0 +1,6 @@
+User-agent: Mediapartners-Google
+
+User-agent: *
+Allow: /
+
+Sitemap: https://coronaviruslivestats.github.io/sitemap.xml
